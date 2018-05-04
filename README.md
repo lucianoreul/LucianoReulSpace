@@ -1,2 +1,2 @@
 # MyPage
-Link: https://lucianoreul.github.io/luciano.reul.space/
+Link: https://lucianoreul.github.io/lucianoreulspace/
